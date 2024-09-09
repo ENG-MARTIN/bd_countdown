@@ -55,7 +55,7 @@
   }
   
   footer p {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     color: #42043f;
   }
   
@@ -79,7 +79,7 @@
     position: absolute;
     top: -20px;
     right: -20px;
-    color: rgba(255, 105, 180, 0.6);
+    color: rgba(119, 7, 110, 0.6);
   }
   
   .container::after {
